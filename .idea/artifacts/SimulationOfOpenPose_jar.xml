@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimulationOfOpenPose:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimulationOfOpenPose_jar</output-path>
+    <root id="archive" name="SimulationOfOpenPose.jar">
+      <element id="module-output" name="SimulationOfOpenPose" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libraries/json/json-simple-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
